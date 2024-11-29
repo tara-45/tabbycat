@@ -341,11 +341,12 @@
         },
         "django-split-settings": {
             "hashes": [
-                "sha256:31415a618256b54c5cee8662cbaa72a890683b8b7465d64ba88fdd3affdd6c60",
-                "sha256:4b3be146776d49c61bd9dcf89fad40edb1544f13ab27a87a0b1aecf5a0d636f4"
+                "sha256:72bd7dd9f12602585681074d1f859643fb4f6b196b584688fab86bdd73a57dff",
+                "sha256:d3975aa3601e37f65c59b9977b6bcb1de8bc27496930054078589c7d56998a9d"
             ],
             "index": "pypi",
-            "version": "==1.2.0"
+            "markers": "python_version >= '3.9' and python_version < '4.0'",
+            "version": "==1.3.2"
         },
         "django-statici18n": {
             "hashes": [
