@@ -8,8 +8,8 @@ DATABASES = {
     'default': {
         'ENGINE'      : 'django.db.backends.postgresql',
         'NAME'        : 'tab',  # put your PostgreSQL database's name in here
-        'USER'        : 'tabby',  # put your PostgreSQL login role's user name in here
-        'PASSWORD'    : 'tara45',  # put your PostgreSQL login role's password in here
+        'USER'        : 'tab',  # put your PostgreSQL login role's user name in here
+        'PASSWORD'    : 'tab',  # put your PostgreSQL login role's password in here
         'HOST'        : 'localhost',
         'PORT'        : '5432',
         'CONN_MAX_AGE': None,
